@@ -13,4 +13,4 @@ Results:
 Among all models, Random Forest achieved the highest accuracy of 95%.
 
 Dataset:
-The dataset is obtained from Kaggle: Heart Disease UCI Dataset: https://www.kaggle.com/ronitf/heart-disease-uci
+The dataset is obtained from Kaggle: Heart Disease UCI Dataset
